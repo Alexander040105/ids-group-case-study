@@ -11,8 +11,8 @@ For the Midterm Act 1:
 1. Choose a dataset related to a real-world problem (e.g., COVID-19 cases, stock market trends, population growth).
 2. Use Excel, Google Sheets, or Python (Matplotlib/Seaborn) to create:
    - A bar chart for categorical data
-   - A bar chart for categorical data
-   - A bar chart for categorical data
+   - A line chart for time-series data
+   - A scatter plot for numerical relationships
 3. Analyze the chart and answer:
    - What patterns or trends can be observed?
    - How does the visualization help in understanding the data?
@@ -21,8 +21,8 @@ For the Midterm Act 1:
 Tech/Libraries we can use for this activity:
 
 - Excel: pls help me on this me not good at this HAHAHAHA bruh L pivot tables
-
 - Python + Libraries pip install the following:
+
   - plotly.express  //this is for the data visualization or the graphs(I just like this for the interactivity HAHHASDHASHD bruh)
   - matplotlib //another data visualization tool for the bare minimum
   - pandas //so we can do data cleaning and data analysis on the dataframesss yeheeeey L dolores for not teaching us the fundamentals of data analysis
@@ -58,11 +58,12 @@ Rubric:
 - Total: 50 points
 
 For this L activity we can use the following techs:
+
 - Excel: we can make basic dashboards dito pero pahirapan bruh L
 - Tableau: another good dashboarding tool
 - Power BI: tableau but microsoft bruh
 - Python + libraries same libraries as the first act but to make a good dashboard we need to pip install this:
-    - pip install dash  // this is from the same peeps who made plotly they are good af
+  - pip install dash  // this is from the same peeps who made plotly they are good af
 
 # ADDITIONAL NOTES/THINGS:
 
