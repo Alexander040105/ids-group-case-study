@@ -72,4 +72,4 @@ For this L activity we can use the following techs:
 - I'll put 3 datasets here which will consist of the ff.:
   - Covid Daily Data
   - Covid Summary Data
-  - Covid Summary Data 2(Slightly Cleaned) - This is where I replaced null values with 0 instead so we can easily analyze it without errors saying that the data columns have null values bruh
+  - Covid Summary Data 2(Slightly Cleaned) - This is where I replaced null values with 0 instead so we can easily analyze it without errors saying that the data columns have null values bruh. The filename for this is yung summary_data2.xlsx
