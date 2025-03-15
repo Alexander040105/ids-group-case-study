@@ -5,3 +5,4 @@ dash
 ipykernel
 plotly
 kaleido
+scikit-learn
