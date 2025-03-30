@@ -6,3 +6,5 @@ ipykernel
 plotly
 kaleido
 scikit-learn
+ollama
+networkx
