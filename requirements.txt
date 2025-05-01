@@ -8,3 +8,4 @@ kaleido
 scikit-learn
 ollama
 networkx
+nbformat
